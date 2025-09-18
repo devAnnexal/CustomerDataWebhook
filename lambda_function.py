@@ -1,8 +1,8 @@
-# ZAPIER_WEBHOOK_URL :
-# S3_BUCKET :
-# S3_KEY :
-# CHECKPOINT_S3_BUCKET :
-# CHECKPOINT_S3_KEY :
+# ZAPIER_WEBHOOK_URL : https://hooks.zapier.com/hooks/catch/9983459/2zhpzxb/
+# S3_BUCKET : needacarinventory
+# S3_KEY : customers/CUSTOMER-AUTOGROUP.CSV
+# CHECKPOINT_S3_BUCKET : needacarinventory
+# CHECKPOINT_S3_KEY : customers/checkpoint.txt
 
 
 import os
